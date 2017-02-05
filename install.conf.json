@@ -13,9 +13,10 @@
     },
     {
         "link": {
-            "~/.aliases":"aliases",
-            "~/.gitconfig":"gitconfig",
-            "~/.zshrc":"zshrc"
+            "~/.aliases": "aliases",
+            "~/.dotfiles": "",
+            "~/.gitconfig": "gitconfig",
+            "~/.zshrc": "zshrc"
         }
     },
     {
