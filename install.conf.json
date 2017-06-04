@@ -15,7 +15,8 @@
         "link": {
             "~/.aliases": "aliases",
             "~/.gitconfig": "gitconfig",
-            "~/.zshrc": "zshrc"
+            "~/.zshrc": "zshrc",
+            "~/.nanorc": "nanorc"
         }
     },
     {
