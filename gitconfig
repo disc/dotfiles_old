@@ -5,3 +5,4 @@
     co = checkout
     s = status
     wip = commit -am "WIP"
+    unwip = reset --soft HEAD^
